@@ -3,4 +3,5 @@ Git xxx
 xxx
 Creat a new branch is quick
 branch
-creat a New BRANCH
+Creat a new branch is quick ans simple
+
